@@ -1,0 +1,17 @@
+{
+  "name": "agujero-gloton-multiplayer-server",
+  "version": "1.0.0",
+  "description": "Servidor WebSocket en tiempo real para el juego Agujero Glotón de Pelonchis Games con salas de 10, 30 y 50 jugadores y autocompletado con bots.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "pelonchisgames",
+    "multiplayer",
+    "websocket",
+    "game-server"
+  ],
+  "author": "Pelonchis Games",
+  "license": "ISC"
+}
